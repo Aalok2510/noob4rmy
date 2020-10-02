@@ -2,6 +2,6 @@
 
 flag format: noob{plaintext}
 
-hash: 4ee805f9397a1d584ef9be9d2a4f8f20
+hash: `4ee805f9397a1d584ef9be9d2a4f8f20`
 
-Author: D3v1LaL
+Author: **D3v1LaL**
